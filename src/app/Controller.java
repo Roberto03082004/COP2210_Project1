@@ -13,7 +13,7 @@ public class Controller {
         //enter you info here
         System.out.println("===============================================");
         System.out.println("COP 2210 - Project 2 Output");
-        System.out.println("Roberto Callejas");
+        System.out.println("");
         System.out.println("6360177");
         System.out.println("COP 2210 - U02C");
         System.out.println("===============================================");
